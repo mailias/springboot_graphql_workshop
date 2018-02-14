@@ -1,6 +1,18 @@
-# Beige
+# GraphQL
 
-### A GitPitch Presentation Template
+### A GraphQL with Spring Boot Workshop
+
+---
+
+## GraphQL Links
+
+- [DZONE Refcard #249 An Overview of GraphQL](https://dzone.com/refcardz/an-overview-of-graphql?chapter=1)
+- [Official GraphQL Website](http://graphql.org/)
+- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+- [GraphQL Java Implementation](https://github.com/graphql-java/graphql-java)
+- [hack.guides() Building a GraphQL Server with Spring Boot](https://www.pluralsight.com/guides/java-and-j2ee/building-a-graphql-server-with-spring-boot)
+- [REST API Industry Debate: OData vs GraphQL vs ORDS](https://www.progress.com/blogs/rest-api-industry-debate-odata-vs-graphql-vs-ords)
+
 
 ---
 

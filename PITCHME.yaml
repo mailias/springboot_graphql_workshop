@@ -11,4 +11,4 @@ logo : assets/image/logo.png
 highlight : hybrid
 transition : none
 published : true
-footnote : "GitPitch [ Beige ] Presentation Template"
+footnote : "GraphQL + Spring Boot Workshop"
